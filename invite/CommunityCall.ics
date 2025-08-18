@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//ICS Generator//NONSGML ICS Generator//DE
+PRODID:DEUTSCHERPOWERPLATFORMCOMMUNITYCALL
 BEGIN:VEVENT
-UID:1750855882231-ccewkuy?@ics-generator.de
+UID:1750855882231
 DTSTAMP:20250625T125345Z
 DTSTART:20250702T160000
 DTEND:20250702T170000
@@ -10,7 +10,7 @@ SUMMARY:🚀 Deutscher Power Platform Community Call
 DESCRIPTION:Teams Einwahl:\nhttps://teams.microsoft.com/l/meetup-join/19%3ameeting_NTAzODlhNjMtOGU5Ny00Yjg1LWFkZTktMzZkZTM4YjU0ZTEy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2260fb5383-c85c-4d13-a6a8-6693b29e3384%22%7d\n\n🇩🇪 Willkommen zum Deutschen Power Platform Community Call\n==========================================\n\n\n📌 Format\nModeriert von Microsoft\nAustausch rund um die Power Platform\nSprache: Deutsch\nCommunity!!!\nInspiration\, Wissenstransfer\, Networking\nGerne den Chat nutzen!\n\n💡 Inhalte\nPraxisnahe Demos & Use Cases\nPower Platform (ohne Power BI)\nAktuelle Entwicklungen & Best Practices\nErfahrungsaustausch aus der Community\n\n🕓 Ablauf\nZwei Vorträge à 20 Minuten\nAktuelle Termine\nJonas und Robins Fundstücke des Monats\n\n 📅 Termin\nJeden 1. Mittwoch im Monat  \n16:00 – 17:00 Uhr\n\n🎤 Speaker\nEin bunter Mix aus Community-Mitgliedern\, Microsoft-Mitarbeitenden\, MVPs und Partnern – alle mit spannenden Einblicken und Erfahrungen rund um die Power Platform.\nDu willst Speaker werden? https://forms.office.com/r/SJdZ1cTCTJ
 LOCATION:Online
 URL:https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTAzODlhNjMtOGU5Ny00Yjg1LWFkZTktMzZkZTM4YjU0ZTEy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%2260fb5383-c85c-4d13-a6a8-6693b29e3384%22%7d
-RRULE:FREQ=MONTHLY
+RRULE:FREQ=MONTHLY;BYDAY=1WE
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT10M
