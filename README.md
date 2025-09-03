@@ -15,8 +15,8 @@
 
 ## 🕓 Ablauf
 * Zwei Vorträge à 20 Minuten
-* Aktuelle Termine
-* Jonas und Robins Fundstücke des Monats
+* [Aktuelle Termine](Termine.md)
+* [Jonas und Robins Fundstücke des Monats](Fundstuecke.md)
 
 ### 📅 Termin
 Jeden **1. Mittwoch im Monat**  
