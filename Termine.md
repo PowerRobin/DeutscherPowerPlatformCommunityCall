@@ -12,14 +12,10 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
-| 08.-12.09.2025 | AI Learning Week | Remote | [🔗](https://www.microsoft.com/de-de/aktionen/ai-learning-week/) |
-| 16.09.2025 | PPMUG – Power Platform München User Group | München | [🔗](https://www.linkedin.com/events/septembertreffen-powerplatformm7365649133581352960/) |
-| 17.09.2025 | Microsoft AI Day für Sales & Service | München | [🔗](https://msevents.microsoft.com/event?id=3171121239) |
-| 23.09.2025 | Customer Insights Community Call | Remote | [🔗](https://msevents.microsoft.com/event?id=3171121239) |
-| 01.10.2025 | Deutscher Power Platform Community Call #6 | Remote – jeden ersten Mittwoch im Monat 16–17 Uhr | [ics-file](invite/CommunityCall.ics) |
 | 02.10.2025 | Austrian Power Platform Enthusiasts Meetup | Wien | [🔗](https://www.eventbrite.com/e/austrian-power-platform-enthusiasts-meetup-tickets-1502538516149?aff=oddtdtcreator) |
 | 28.-30.10.2025 | Power Platform Community Conference | Las Vegas | [🔗](https://powerplatformconf.com) |
-| 05.11.2025 | AI Experience Day bei Syntax | Weinheim | [🔗](coming soon) |
+| 05.11.2025 | Deutscher Power Platform Community Call #6 | Remote – jeden ersten Mittwoch im Monat 16–17 Uhr | [ics-file](invite/CommunityCall.ics) |
+| 05.11.2025 | AI Experience Day bei Syntax | Weinheim | [🔗](https://de.syntax.com/ai-experience-day) |
 | 06.11.2025 | Microsoft AI Tour | Frankfurt | [🔗](https://aitour.microsoft.com/flow/microsoft/aitour/landing/page/home#find-city) |
 | 18.-21.11.2025 | Microsoft Ignite | Remote | [🔗](https://ignite.microsoft.com) |
 
@@ -27,4 +23,8 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
+| 08.-12.09.2025 | AI Learning Week | Remote | [🔗](https://www.microsoft.com/de-de/aktionen/ai-learning-week/) |
+| 16.09.2025 | PPMUG – Power Platform München User Group | München | [🔗](https://www.linkedin.com/events/septembertreffen-powerplatformm7365649133581352960/) |
+| 17.09.2025 | Microsoft AI Day für Sales & Service | München | [🔗](https://msevents.microsoft.com/event?id=3171121239) |
+| 23.09.2025 | Customer Insights Community Call | Remote | [🔗](https://msevents.microsoft.com/event?id=3171121239) |
 | 01.10.2025 | Deutscher Power Platform Community Call #6 | Remote – jeden ersten Mittwoch im Monat 16–17 Uhr | [ics-file](invite/CommunityCall.ics) |
