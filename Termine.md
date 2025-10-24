@@ -14,6 +14,7 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 |------------|-------|---------|------|
 | 05.11.2025 | AI Experience Day bei Syntax | Weinheim | [🔗](https://de.syntax.com/ai-experience-day) |
 | 06.11.2025 | Microsoft AI Tour | Frankfurt | [🔗](https://aitour.microsoft.com/flow/microsoft/aitour/landing/page/home#find-city) |
+| 14.11.2025 | User Group Hackathon | München | [Anmeldung](https://forms.office.com/Pages/ResponsePage.aspx?id=6DFPFaa3-0C-odq7mva1kCaLCorshndEkDtBQE0SGLVUNVE5NzNLRlRQTTY4RU5VOURTWEJFQ05MVC4u) |
 | 17.11.2025 | PPMUG Community Hackathon | München | coming soon |
 | 18.-21.11.2025 | Microsoft Ignite | Remote | [🔗](https://ignite.microsoft.com) |
 | 21.11.2025 | Microsoft AI School - Der Praxistag | Remote | [🔗](https://msevents.microsoft.com/event?id=3236015986) |
