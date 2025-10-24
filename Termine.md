@@ -12,14 +12,15 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
-| 02.10.2025 | Austrian Power Platform Enthusiasts Meetup | Wien | [🔗](https://www.eventbrite.com/e/austrian-power-platform-enthusiasts-meetup-tickets-1502538516149?aff=oddtdtcreator) |
-| 23.10.2025 | PPMUG User Group Treffen München | München | Kommt |
-| 28.-30.10.2025 | Power Platform Community Conference | Las Vegas | [🔗](https://powerplatformconf.com) |
-| 05.11.2025 | Deutscher Power Platform Community Call #6 | Remote – jeden ersten Mittwoch im Monat 16–17 Uhr | [ics-file](invite/CommunityCall.ics) |
 | 05.11.2025 | AI Experience Day bei Syntax | Weinheim | [🔗](https://de.syntax.com/ai-experience-day) |
 | 06.11.2025 | Microsoft AI Tour | Frankfurt | [🔗](https://aitour.microsoft.com/flow/microsoft/aitour/landing/page/home#find-city) |
 | 17.11.2025 | PPMUG Community Hackathon | München | coming soon |
 | 18.-21.11.2025 | Microsoft Ignite | Remote | [🔗](https://ignite.microsoft.com) |
+| 21.11.2025 | Microsoft AI School - Der Praxistag | Remote | [🔗](https://msevents.microsoft.com/event?id=3236015986) |
+| 02.12.2025 | Microsoft AI Apps and Agents Day | München | [🔗](https://msevents.microsoft.com/event?id=3350012520) |
+| 03.12.2025 | Deutscher Power Platform Community Call #7 | Remote – jeden ersten Mittwoch im Monat 16–17 Uhr | [ics-file](invite/CommunityCall.ics) |
+| 04.12.2025 | Microsoft AI Apps and Agents Day | Köln | [🔗](https://msevents.microsoft.com/event?id=3201455846) |
+| 15.-17.04.2026 | Color Cloud Hamburg | Hamburg | [🔗](https://colorcloud.rocks/) |
 
 ## Zurückliegende Termine
 
@@ -30,3 +31,6 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 | 17.09.2025 | Microsoft AI Day für Sales & Service | München | [🔗](https://msevents.microsoft.com/event?id=3171121239) |
 | 23.09.2025 | Customer Insights Community Call | Remote | [🔗](https://msevents.microsoft.com/event?id=3171121239) |
 | 01.10.2025 | Deutscher Power Platform Community Call #6 | Remote – jeden ersten Mittwoch im Monat 16–17 Uhr | [ics-file](invite/CommunityCall.ics) |
+| 02.10.2025 | Austrian Power Platform Enthusiasts Meetup | Wien | [🔗](https://www.eventbrite.com/e/austrian-power-platform-enthusiasts-meetup-tickets-1502538516149?aff=oddtdtcreator) |
+| 23.10.2025 | PPMUG User Group Treffen München | München | Kommt |
+| 28.-30.10.2025 | Power Platform Community Conference | Las Vegas | [🔗](https://powerplatformconf.com) |
