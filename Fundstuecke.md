@@ -3,6 +3,7 @@ Hier findet ihr Links zu allen Fundstücken, die im Community Call erwähnt wurd
 
 | Name | Call | Link |
 |------|------|------|
+| Agent academy (Operative live!) | 02/2026 | [🔗](https://microsoft.github.io/agent-academy/) |
 | Copilot Studio Adventskalender | 12/2025 | [🔗](https://www.youtube.com/watch?v=IDyWEDQoXa0) |
 | Power Platform Ignite Session | 12/2025 | [🔗](https://ignite.microsoft.com/en-US/sessions/BRK322) |
 | Agent academy | 10/2025 | [🔗](https://microsoft.github.io/agent-academy/) |

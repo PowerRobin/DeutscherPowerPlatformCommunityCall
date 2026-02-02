@@ -12,17 +12,21 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
-| 04.12.2025 | Microsoft AI Apps and Agents Day | Köln | [🔗](https://msevents.microsoft.com/event?id=3201455846) |
-| 07.01.2025 | Deutscher Power Platform Community Call #7 | Remote – jeden ersten Mittwoch im Monat 16–17 Uhr | [ics-file](invite/CommunityCall.ics) |
+| 20.02.2026 | Bootcamp | Wien | [🔗](https://www.appe.at/bootcamp) |
 | 25.02.2026 | Microsoft AI Tour 2026 | München | [🔗](https://aitour.microsoft.com/flow/microsoft/munich26/landingpage/page/cityhome) |
+| 04.03.2025 | Deutscher Power Platform Community Call #7 | Remote – jeden ersten Mittwoch im Monat 16–17 Uhr | [ics-file](invite/CommunityCall.ics) |
+| März 2026 | AI Apps & Agents Tour | München | coming soon |
 | 15.-17.04.2026 | Color Cloud Hamburg | Hamburg | [🔗](https://colorcloud.rocks/) |
-| 01.-04.06.2026 | European Power Platform Conference | Kopenhagen | [🔗](https://www.sharepointeurope.com/european-power-platform-conference/) |
+| 25.-27.05.2026 | DynamicsMinds | Portorož, Slowenien | [🔗](https://www.dynamicsminds.com) |
+| 29.6.-02.07.2026 | European Power Platform Conference | Kopenhagen, Dänemark | [🔗](https://www.sharepointeurope.com/european-power-platform-conference/) |
 | 05.-07.07.2026 | European BizApps Summit | Köln | [🔗](https://bizappssummit.eu/) |
+| 27.-29.10.2026 | Power Platform Community Conference (PPCC) | Las Vegas, USA | [🔗](https://powerplatformconf.com) |
 
 ## Zurückliegende Termine
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
+| 04.12.2025 | Microsoft AI Apps and Agents Day | Köln | [🔗](https://msevents.microsoft.com/event?id=3201455846) |
 | 08.-12.09.2025 | AI Learning Week | Remote | [🔗](https://www.microsoft.com/de-de/aktionen/ai-learning-week/) |
 | 16.09.2025 | PPMUG – Power Platform München User Group | München | [🔗](https://www.linkedin.com/events/septembertreffen-powerplatformm7365649133581352960/) |
 | 17.09.2025 | Microsoft AI Day für Sales & Service | München | [🔗](https://msevents.microsoft.com/event?id=3171121239) |
