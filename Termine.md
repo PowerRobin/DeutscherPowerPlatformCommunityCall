@@ -14,6 +14,7 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 |------------|-------|---------|------|
 | 20.02.2026 | Bootcamp | Wien | [🔗](https://www.appe.at/bootcamp) |
 | 25.02.2026 | Microsoft AI Tour 2026 | München | [🔗](https://aitour.microsoft.com/flow/microsoft/munich26/landingpage/page/cityhome) |
+| 25.02.2026 | PPMUG | Microsoft München | [🔗](https://lnkd.in/d49pTtbT) |
 | 04.03.2025 | Deutscher Power Platform Community Call #7 | Remote – jeden ersten Mittwoch im Monat 16–17 Uhr | [ics-file](invite/CommunityCall.ics) |
 | März 2026 | AI Apps & Agents Tour | München | coming soon |
 | 15.-17.04.2026 | Color Cloud Hamburg | Hamburg | [🔗](https://colorcloud.rocks/) |
