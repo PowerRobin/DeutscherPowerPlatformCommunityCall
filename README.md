@@ -1,4 +1,4 @@
-# 🇩🇪 Willkommen zum Deutschen Power Platform Community Call
+# 🇩🇪 Willkommen zum Deutschen Power Platform Community Call!
 
 ## 📌 Format
 * Austausch rund um die Power Platform
