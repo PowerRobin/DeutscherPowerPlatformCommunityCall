@@ -12,11 +12,9 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
-| 20.02.2026 | Bootcamp | Wien | [🔗](https://www.appe.at/bootcamp) |
-| 25.02.2026 | Microsoft AI Tour 2026 | München | [🔗](https://aitour.microsoft.com/flow/microsoft/munich26/landingpage/page/cityhome) |
-| 25.02.2026 | PPMUG | Microsoft München | [🔗](https://lnkd.in/d49pTtbT) |
-| 04.03.2025 | Deutscher Power Platform Community Call #7 | Remote – jeden ersten Mittwoch im Monat 16–17 Uhr | [ics-file](invite/CommunityCall.ics) |
-| März 2026 | AI Apps & Agents Tour | München | coming soon |
+| 19.03.2026 | PPMUG – Power Platform München User Group | München - Munich Re | [🔗](https://www.linkedin.com/events/7432472528117407744/) |
+| 25.03.2026 | Microsoft Agent-a-thon: KI souverän einsetzen | München | [🔗](https://msevents.microsoft.com/event?id=814143246) |
+| 01.04.2026 | Deutscher Power Platform Community Call #8 | Remote – jeden ersten Mittwoch im Monat 16–17 Uhr | [ics-file](invite/CommunityCall.ics) |
 | 15.-17.04.2026 | Color Cloud Hamburg | Hamburg | [🔗](https://colorcloud.rocks/) |
 | 25.-27.05.2026 | DynamicsMinds | Portorož, Slowenien | [🔗](https://www.dynamicsminds.com) |
 | 29.6.-02.07.2026 | European Power Platform Conference | Kopenhagen, Dänemark | [🔗](https://www.sharepointeurope.com/european-power-platform-conference/) |
@@ -27,6 +25,9 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
+| 25.02.2026 | Microsoft AI Tour 2026 | München | [🔗](https://aitour.microsoft.com/flow/microsoft/munich26/landingpage/page/cityhome) |
+| 25.02.2026 | PPMUG | Microsoft München | [🔗](https://lnkd.in/d49pTtbT) |
+| 20.02.2026 | Bootcamp | Wien | [🔗](https://www.appe.at/bootcamp) |
 | 04.12.2025 | Microsoft AI Apps and Agents Day | Köln | [🔗](https://msevents.microsoft.com/event?id=3201455846) |
 | 08.-12.09.2025 | AI Learning Week | Remote | [🔗](https://www.microsoft.com/de-de/aktionen/ai-learning-week/) |
 | 16.09.2025 | PPMUG – Power Platform München User Group | München | [🔗](https://www.linkedin.com/events/septembertreffen-powerplatformm7365649133581352960/) |

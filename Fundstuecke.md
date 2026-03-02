@@ -3,6 +3,7 @@ Hier findet ihr Links zu allen Fundstücken, die im Community Call erwähnt wurd
 
 | Name | Call | Link |
 |------|------|------|
+| What's New in Power Platform – February 2026 Feature Update | 03/2026 | [🔗](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-february-2026-feature-update/) |
 | Agent academy (Operative live!) | 02/2026 | [🔗](https://microsoft.github.io/agent-academy/) |
 | Copilot Studio Adventskalender | 12/2025 | [🔗](https://www.youtube.com/watch?v=IDyWEDQoXa0) |
 | Power Platform Ignite Session | 12/2025 | [🔗](https://ignite.microsoft.com/en-US/sessions/BRK322) |
