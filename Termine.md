@@ -5,8 +5,8 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 | Name | Datum / Rhythmus 2025 | Ort (Online/Physisch) | Link |
 |------|-----------------------|-----------------------|------|
-| Deutscher Power Platform Community Call | Jeden 1. Mittwoch im Monat 2025, 16:00-17:00 Uhr | Online (Teams) | [ics-file](invite/CommunityCall.ics) |
-| #PowerAtelier mit Stefan und Tomi | Jeden Freitag 2025, 10:00-11:00 Uhr | Online (Teams) | [Teams-Meeting](https://aka.ms/PowerAtelier) |
+| Deutscher Power Platform Community Call | Jeden 1. Mittwoch im Monat, 16:00-17:00 Uhr | Online (Teams) | [ics-file](invite/CommunityCall.ics) |
+| #PowerAtelier mit Stefan und Tomi | Jeden Freitag, 10:00-11:00 Uhr | Online (Teams) | [Teams-Meeting](https://aka.ms/PowerAtelier) |
 
 ## Kommende Termine
 
@@ -19,6 +19,7 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 | 25.-27.05.2026 | DynamicsMinds | Portorož, Slowenien | [🔗](https://www.dynamicsminds.com) |
 | 29.6.-02.07.2026 | European Power Platform Conference | Kopenhagen, Dänemark | [🔗](https://www.sharepointeurope.com/european-power-platform-conference/) |
 | 05.-07.07.2026 | European BizApps Summit | Köln | [🔗](https://bizappssummit.eu/) |
+| 02.-03.10.2026 | Scottish Summit 2026 | Murrayfield Stadium, Edinburgh, UK | [🔗](https://scottishsummit.com/) |
 | 27.-29.10.2026 | Power Platform Community Conference (PPCC) | Las Vegas, USA | [🔗](https://powerplatformconf.com) |
 
 ## Zurückliegende Termine
