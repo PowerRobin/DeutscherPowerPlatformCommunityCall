@@ -24,6 +24,9 @@ Jeden **1. Mittwoch im Monat**
 
 👉 über diese Datei kannst du dich selber einladen (runterladen und ins Mailprogramm importieren): [INVITE](invite/CommunityCall.ics)
 
+## 📂 Ressourcen
+Präsentationen und Materialien aus vergangenen Calls findest du hier: [Ressourcen](Ressourcen.md)
+
 ## 🎤 Speaker
 Ein bunter Mix aus Community-Mitgliedern, Microsoft-Mitarbeitenden, MVPs und Partnern – alle mit spannenden Einblicken und Erfahrungen rund um die Power Platform.
 So kannst auch du Speaker werden: [Speaker-Formular](https://forms.office.com/r/SJdZ1cTCTJ)
