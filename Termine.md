@@ -12,10 +12,7 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
-| 01.04.2026 | Deutscher Power Platform Community Call #8 | Remote – jeden ersten Mittwoch im Monat 16–17 Uhr | [ics-file](invite/CommunityCall.ics) |
-| 15.-17.04.2026 | Color Cloud Hamburg | Hamburg | [🔗](https://colorcloud.rocks/) |
-| 20.04.2026 | PPMUG – Power Platform München User Group | Bei Cloudbridge mit den Event Punks, ab 18 Uhr | [🔗](https://www.linkedin.com/events/7440463140233850880/) |
-| 01.-02.05.2026 | East of England Power Platform Summit 2026 | Norwich, Norfolk – Community-Summit mit Workshop-Tag und kostenfreiem Conference Day | [🔗](https://eoepps.co.uk/) |
+| 20.05.2026 | PPCF – Power Platform Community Frankfurt | Microsoft Frankfurt, Frankfurt am Main, 17:30–21:00 Uhr | [🔗](https://www.eventbrite.com/e/ppcf-mai-2026-tickets-1988719107385) |
 | 25.-27.05.2026 | DynamicsMinds | Portorož, Slowenien | [🔗](https://www.dynamicsminds.com) |
 | 29.6.-02.07.2026 | European Power Platform Conference | Kopenhagen, Dänemark | [🔗](https://www.sharepointeurope.com/european-power-platform-conference/) |
 | 05.-07.07.2026 | European BizApps Summit | Köln | [🔗](https://bizappssummit.eu/) |
@@ -26,6 +23,10 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
+| 01.-02.05.2026 | East of England Power Platform Summit 2026 | Norwich, Norfolk – Community-Summit mit Workshop-Tag und kostenfreiem Conference Day | [🔗](https://eoepps.co.uk/) |
+| 20.04.2026 | PPMUG – Power Platform München User Group | Bei Cloudbridge mit den Event Punks, ab 18 Uhr | [🔗](https://www.linkedin.com/events/7440463140233850880/) |
+| 15.-17.04.2026 | Color Cloud Hamburg | Hamburg | [🔗](https://colorcloud.rocks/) |
+| 01.04.2026 | Deutscher Power Platform Community Call #8 | Remote – jeden ersten Mittwoch im Monat 16–17 Uhr | [ics-file](invite/CommunityCall.ics) |
 | 25.03.2026 | Microsoft Agent-a-thon: KI souverän einsetzen | München | [🔗](https://msevents.microsoft.com/event?id=814143246) |
 | 19.03.2026 | PPMUG – Power Platform München User Group | München - Munich Re | [🔗](https://www.linkedin.com/events/7432472528117407744/) |
 | 25.02.2026 | Microsoft AI Tour 2026 | München | [🔗](https://aitour.microsoft.com/flow/microsoft/munich26/landingpage/page/cityhome) |
