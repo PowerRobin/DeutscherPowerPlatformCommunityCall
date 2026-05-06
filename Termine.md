@@ -12,15 +12,15 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
+| 05.-07.05.2026 | European BizApps Summit | Köln | [🔗](https://bizappssummit.eu/) |
 | 19.05.2026 | PPMUG – Power Platform München User Group | Walter-Gropius-Straße 5, München, 18:00–20:00 Uhr | [🔗](https://www.linkedin.com/events/7452028314367639552/) |
 | 20.05.2026 | PPCF – Power Platform Community Frankfurt | Microsoft Frankfurt, Frankfurt am Main, 17:30–21:00 Uhr | [🔗](https://www.eventbrite.com/e/ppcf-mai-2026-tickets-1988719107385) |
 | 25.-27.05.2026 | DynamicsMinds | Portorož, Slowenien | [🔗](https://www.dynamicsminds.com) |
 | 02.-03.06.2026 | Microsoft Build 2026 | San Francisco, USA & Online | [🔗](https://build.microsoft.com/en-US/home) |
 | 29.6.-02.07.2026 | European Power Platform Conference | Kopenhagen, Dänemark | [🔗](https://www.sharepointeurope.com/european-power-platform-conference/) |
-| 05.-07.07.2026 | European BizApps Summit | Köln | [🔗](https://bizappssummit.eu/) |
 | 02.-03.10.2026 | Scottish Summit 2026 | Murrayfield Stadium, Edinburgh, UK | [🔗](https://scottishsummit.com/) |
 | 27.-29.10.2026 | Power Platform Community Conference (PPCC) | Las Vegas, USA | [🔗](https://powerplatformconf.com) |
-| 21.-23.04.2027 | ColorCloud Hamburg | Hamburg | [🔗](https://lnkd.in/egkxBcfA) |
+| 21.-23.04.2027 | ColorCloud | Hamburg | [🔗](https://colorcloud.rocks/) |
 
 ## Zurückliegende Termine
 
