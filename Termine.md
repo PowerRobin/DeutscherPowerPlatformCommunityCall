@@ -20,6 +20,7 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 | 05.-07.07.2026 | European BizApps Summit | Köln | [🔗](https://bizappssummit.eu/) |
 | 02.-03.10.2026 | Scottish Summit 2026 | Murrayfield Stadium, Edinburgh, UK | [🔗](https://scottishsummit.com/) |
 | 27.-29.10.2026 | Power Platform Community Conference (PPCC) | Las Vegas, USA | [🔗](https://powerplatformconf.com) |
+| 21.-23.04.2027 | ColorCloud Hamburg | Hamburg | [🔗](https://lnkd.in/egkxBcfA) |
 
 ## Zurückliegende Termine
 
