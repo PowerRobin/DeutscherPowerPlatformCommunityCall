@@ -3,6 +3,7 @@ Hier findet ihr Links zu allen Fundstücken, die im Community Call erwähnt wurd
 
 | Name | Call | Link |
 |------|------|------|
+| Microsoft Build 2026 Live Blog | 06/2026 | [🔗](https://news.microsoft.com/build-2026-live-blog) |
 | The Custom Engine – Copilot Studio CAT Blog | 05/2026 | [🔗](https://microsoft.github.io/mcscatblog/) |
 | Dataverse Intelligence - Preview Feature in Dataverse MCP | 04/2026 | [🔗](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intelligence) |
 | What's New in Power Platform – February 2026 Feature Update | 03/2026 | [🔗](https://www.microsoft.com/en-us/power-platform/blog/power-apps/whats-new-in-power-platform-february-2026-feature-update/) |
