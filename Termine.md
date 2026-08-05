@@ -12,8 +12,8 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
-| 29.6.-02.07.2026 | European Power Platform Conference | Kopenhagen, Dänemark | [🔗](https://www.sharepointeurope.com/european-power-platform-conference/) |
-| 17.07.2026 | PPMUG Hackathon 2026 | Microsoft München | [Anmeldung](https://forms.office.com/pages/responsepage.aspx?id=6DFPFaa3-0C-odq7mva1kCaLCorshndEkDtBQE0SGLVUNUczMlNDQTlMMUpRVUJYOElNM1hORjFQVS4u&route=shorturl) |
+| 01.08.-30.09.2026 | HITZEFREI 2026 – Sonne. Wissen. Community. | Online – tägliche Tech-Impulse, Prompts, Workflows und Sommerideen aus der MVP-Treff-Community | [MVPTreff](https://www.mvptreff.de/hitzefrei/) |
+| 11.08.2026 | August (Biergarten) Treffen – Power Platform München User Group | Augustiner-Keller, Arnulfstraße 52, München, 18:00–20:00 Uhr | [🔗](https://www.linkedin.com/events/7485366698280161280/) |
 | 02.-03.10.2026 | Scottish Summit 2026 | Murrayfield Stadium, Edinburgh, UK | [🔗](https://scottishsummit.com/) |
 | 27.-29.10.2026 | Power Platform Community Conference (PPCC) | Las Vegas, USA | [🔗](https://powerplatformconf.com) |
 | 21.-23.04.2027 | ColorCloud | Hamburg | [🔗](https://colorcloud.rocks/) |
@@ -22,6 +22,8 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
+| 17.07.2026 | PPMUG Hackathon 2026 | Microsoft München | [Anmeldung](https://forms.office.com/pages/responsepage.aspx?id=6DFPFaa3-0C-odq7mva1kCaLCorshndEkDtBQE0SGLVUNUczMlNDQTlMMUpRVUJYOElNM1hORjFQVS4u&route=shorturl) |
+| 29.06.-02.07.2026 | European Power Platform Conference | Kopenhagen, Dänemark | [🔗](https://www.sharepointeurope.com/european-power-platform-conference/) |
 | 02.-03.06.2026 | Microsoft Build 2026 | San Francisco, USA & Online | [🔗](https://build.microsoft.com/en-US/home) |
 | 25.-27.05.2026 | DynamicsMinds | Portorož, Slowenien | [🔗](https://www.dynamicsminds.com) |
 | 20.05.2026 | PPCF – Power Platform Community Frankfurt | Microsoft Frankfurt, Frankfurt am Main, 17:30–21:00 Uhr | [🔗](https://www.eventbrite.com/e/ppcf-mai-2026-tickets-1988719107385) |

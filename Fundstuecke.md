@@ -3,6 +3,9 @@ Hier findet ihr Links zu allen Fundstücken, die im Community Call erwähnt wurd
 
 | Name | Call | Link |
 |------|------|------|
+| More powerful agents and workflows for autonomous business processes: Introducing a new harness for Copilot Studio | 08/2026 | [🔗](https://techcommunity.microsoft.com/blog/copilot-studio-blog/more-powerful-agents-and-workflows-for-autonomous-business-processes-introducing/4542969) |
+| New Harness, New Rules? CAT's Got You | 08/2026 | [🔗](https://microsoft.github.io/mcscatblog/posts/new-orchestrator-resources/) |
+| Podcast mit den Power Dudes und Robin zur EPPC26 und mehr | 07/2026 | [🔗](https://open.spotify.com/episode/1wrtp6p1tyni9wWgJAYdm3) |
 | Microsoft Build 2026 Live Blog | 06/2026 | [🔗](https://news.microsoft.com/build-2026-live-blog) |
 | The Custom Engine – Copilot Studio CAT Blog | 05/2026 | [🔗](https://microsoft.github.io/mcscatblog/) |
 | Dataverse Intelligence - Preview Feature in Dataverse MCP | 04/2026 | [🔗](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intelligence) |
