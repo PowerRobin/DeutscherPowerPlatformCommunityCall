@@ -13,8 +13,8 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
 | 01.08.-30.09.2026 | HITZEFREI 2026 – Sonne. Wissen. Community. | Online – tägliche Tech-Impulse, Prompts, Workflows und Sommerideen aus der MVP-Treff-Community | [MVPTreff](https://www.mvptreff.de/hitzefrei/) |
-| 11.08.2026 | August (Biergarten) Treffen – Power Platform München User Group | Augustiner-Keller, Arnulfstraße 52, München, 18:00–20:00 Uhr | [🔗](https://www.linkedin.com/events/7485366698280161280/) |
 | 02.-03.10.2026 | Scottish Summit 2026 | Murrayfield Stadium, Edinburgh, UK | [🔗](https://scottishsummit.com/) |
+| 22.10.2026 | Microsoft AI Tour | Köln, 08:00–17:15 Uhr – Strategie, technische Deep Dives und Hands-on-Labs rund um produktive KI-Lösungen | [Anmeldung](https://aitour.microsoft.com/flow/microsoft/cologne27/citylanding/page/cityhome?wt.mc_ID=aitour2027_ciarmar_fld_geau_np_eml_Techwiese_CologneTechwiese) |
 | 27.-29.10.2026 | Power Platform Community Conference (PPCC) | Las Vegas, USA | [🔗](https://powerplatformconf.com) |
 | 21.-23.04.2027 | ColorCloud | Hamburg | [🔗](https://colorcloud.rocks/) |
 
@@ -22,6 +22,7 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
+| 11.08.2026 | August (Biergarten) Treffen – Power Platform München User Group | Augustiner-Keller, Arnulfstraße 52, München, 18:00–20:00 Uhr | [🔗](https://www.linkedin.com/events/7485366698280161280/) |
 | 17.07.2026 | PPMUG Hackathon 2026 | Microsoft München | [Anmeldung](https://forms.office.com/pages/responsepage.aspx?id=6DFPFaa3-0C-odq7mva1kCaLCorshndEkDtBQE0SGLVUNUczMlNDQTlMMUpRVUJYOElNM1hORjFQVS4u&route=shorturl) |
 | 29.06.-02.07.2026 | European Power Platform Conference | Kopenhagen, Dänemark | [🔗](https://www.sharepointeurope.com/european-power-platform-conference/) |
 | 02.-03.06.2026 | Microsoft Build 2026 | San Francisco, USA & Online | [🔗](https://build.microsoft.com/en-US/home) |
