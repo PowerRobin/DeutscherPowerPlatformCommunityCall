@@ -3,7 +3,7 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 ## Wiederkehrende Termine
 
-| Name | Datum / Rhythmus 2025 | Ort (Online/Physisch) | Link |
+| Name | Datum / Rhythmus 2026 | Ort (Online/Physisch) | Link |
 |------|-----------------------|-----------------------|------|
 | Deutscher Power Platform Community Call | Jeden 1. Mittwoch im Monat, 16:00-17:00 Uhr | Online (Teams) | [ics-file](invite/CommunityCall.ics) |
 | #PowerAtelier mit Stefan und Tomi | Jeden Freitag, 10:00-11:00 Uhr | Online (Teams) | [Teams-Meeting](https://aka.ms/PowerAtelier) |
@@ -12,16 +12,18 @@ Hier findet ihr Links zu allen Terminen, die im Community Call erwähnt wurden
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
-| 01.08.-30.09.2026 | HITZEFREI 2026 – Sonne. Wissen. Community. | Online – tägliche Tech-Impulse, Prompts, Workflows und Sommerideen aus der MVP-Treff-Community | [MVPTreff](https://www.mvptreff.de/hitzefrei/) |
-| 02.-03.10.2026 | Scottish Summit 2026 | Murrayfield Stadium, Edinburgh, UK | [🔗](https://scottishsummit.com/) |
-| 22.10.2026 | Microsoft AI Tour | Köln, 08:00–17:15 Uhr – Strategie, technische Deep Dives und Hands-on-Labs rund um produktive KI-Lösungen | [Anmeldung](https://aitour.microsoft.com/flow/microsoft/cologne27/citylanding/page/cityhome?wt.mc_ID=aitour2027_ciarmar_fld_geau_np_eml_Techwiese_CologneTechwiese) |
+| 14.10.2026 | Oktober Treffen – Power Platform München User Group | Microsoft München, 18:00–20:00 Uhr | [🔗](https://www.linkedin.com/events/7508087061653090304/) |
+| 22.10.2026 | Microsoft AI Tour | Confex Köln, 08:00–17:15 Uhr – Strategie, technische Deep Dives und Hands-on-Labs rund um produktive KI-Lösungen | [TechWiese](https://www.microsoft.com/de-de/techwiese/blog/microsoft-ai-tour-koeln-2026-agenda.aspx) |
 | 27.-29.10.2026 | Power Platform Community Conference (PPCC) | Las Vegas, USA | [🔗](https://powerplatformconf.com) |
+| 09.-10.11.2026 | Microsoft Power Platform Roundtable: Apps & Agents sicher bauen, verantwortungsvoll skalieren | Microsoft Deutschland, Holzmarkt 2a, Köln – 09.11. 12:00–20:00 Uhr und 10.11. 08:30–13:30 Uhr | [Anmeldung](https://msevents.microsoft.com/event?id=653921049) |
 | 21.-23.04.2027 | ColorCloud | Hamburg | [🔗](https://colorcloud.rocks/) |
 
 ## Zurückliegende Termine
 
 | Datum | Event | Details | Link |
 |------------|-------|---------|------|
+| 02.-03.10.2026 | Scottish Summit 2026 | Murrayfield Stadium, Edinburgh, UK | [🔗](https://scottishsummit.com/) |
+| 01.08.-30.09.2026 | HITZEFREI 2026 – Sonne. Wissen. Community. | Online – tägliche Tech-Impulse, Prompts, Workflows und Sommerideen aus der MVP-Treff-Community | [MVPTreff](https://www.mvptreff.de/hitzefrei/) |
 | 11.08.2026 | August (Biergarten) Treffen – Power Platform München User Group | Augustiner-Keller, Arnulfstraße 52, München, 18:00–20:00 Uhr | [🔗](https://www.linkedin.com/events/7485366698280161280/) |
 | 17.07.2026 | PPMUG Hackathon 2026 | Microsoft München | [Anmeldung](https://forms.office.com/pages/responsepage.aspx?id=6DFPFaa3-0C-odq7mva1kCaLCorshndEkDtBQE0SGLVUNUczMlNDQTlMMUpRVUJYOElNM1hORjFQVS4u&route=shorturl) |
 | 29.06.-02.07.2026 | European Power Platform Conference | Kopenhagen, Dänemark | [🔗](https://www.sharepointeurope.com/european-power-platform-conference/) |
